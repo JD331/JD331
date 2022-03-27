@@ -12,6 +12,10 @@
 [解除劳动合同协议书修改诉求](https://github.com/JD331/JD331/blob/main/%E3%80%8A%E8%A7%A3%E9%99%A4%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%E5%8D%8F%E8%AE%AE%E4%B9%A6%E3%80%8B%E4%BF%AE%E6%94%B9%E8%AF%89%E6%B1%82.md)，欢迎补充和更新
 
 
+## 本项目会吸引京东大量的有985/211学历+大厂背景的人员，有意招聘请将招聘jd+联系方式贴在下面
+
+
+
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
