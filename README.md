@@ -24,9 +24,9 @@
 
 
 招聘格式：
-[公司名称—部门名称—职位](https://github.com/JD331/JD331/tree/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82)
+[公司名称—部门名称—职位](https://github.com/JD331/JD331/blob/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82/%E5%85%AC%E5%8F%B8%E5%90%8D%E7%A7%B0%E2%80%94%E9%83%A8%E9%97%A8%E5%90%8D%E7%A7%B0%E2%80%94%E8%81%8C%E4%BD%8D.md)
 
-[微软中国—软件开发工程师（all level）](https://github.com/JD331/JD331/blob/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82/%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E2%80%94%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88all%20level%EF%BC%89)
+[微软中国—软件开发工程师（all level）](https://github.com/JD331/JD331/blob/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82/%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E2%80%94%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88all%20level%EF%BC%89.md)
 
 
 
