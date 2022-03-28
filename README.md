@@ -10,11 +10,11 @@
 
 ## 非法裁员应对措施
 
-+ [关手京东大礼包的一些Tips.md](https://github.com/JD331/JD331/blob/main/裁员应对/关手京东大礼包的一些Tips.md)
++ [关手京东大礼包的一些Tips](https://github.com/JD331/JD331/blob/main/裁员应对/关手京东大礼包的一些Tips.md)
 
-- [非法裁员应对措施.md](https://github.com/JD331/JD331/blob/main/裁员应对/非法裁员应对措施.md)
-- [法律咨询渠道.md](https://github.com/JD331/JD331/blob/main/裁员应对/法律咨询渠道.md)
-- [仲裁渠道和流程.md](https://github.com/JD331/JD331/blob/main/裁员应对/仲裁渠道.md)
+- [非法裁员应对措施](https://github.com/JD331/JD331/blob/main/裁员应对/非法裁员应对措施.md)
+- [法律咨询渠道](https://github.com/JD331/JD331/blob/main/裁员应对/法律咨询渠道.md)
+- [仲裁渠道和流程](https://github.com/JD331/JD331/blob/main/裁员应对/仲裁渠道.md)
 - 平时工作需要注意保存的证据
 
 ## 广告位招租～～～
