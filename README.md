@@ -11,6 +11,7 @@
 ## 非法裁员应对措施
 
 + [关手京东大礼包的一些Tips](https://github.com/JD331/JD331/blob/main/裁员应对/关手京东大礼包的一些Tips.md)
++ [大礼包目前存在的问题](https://github.com/JD331/JD331/blob/main/裁员应对/大礼包目前存在的问题.md)
 
 - [非法裁员应对措施](https://github.com/JD331/JD331/blob/main/裁员应对/非法裁员应对措施.md)
 - [法律咨询渠道](https://github.com/JD331/JD331/blob/main/裁员应对/法律咨询渠道.md)
