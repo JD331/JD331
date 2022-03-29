@@ -23,20 +23,16 @@
 > 如果您有招聘需求，欢迎提交至此。裁员主要是因为公司经营管理不善，并非被裁员工能力不足或者品行不端，相互尊重是合作展开的基础。
 
 - [微软中国—软件开发工程师（all level）](https://github.com/JD331/JD331/blob/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82/%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E2%80%94%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88all%20level%EF%BC%89.md)
-
 - [美团-到家-前端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团【成都】-到家-前端.md)
-
 - [OPPO-互联网系统+数智(基础研发)系统](<https://github.com/JD331/JD331/blob/main/招聘需求/OPPO-互联网系统%2B数智(基础研发)系统.md>)
-
 - [美团-医药-后端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团成都-医药-后端.md)
-
 - [Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端](https://github.com/JD331/JD331/blob/main/招聘需求/Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端.md)
-
 - [字节-小荷-后端](https://github.com/JD331/JD331/blob/main/招聘需求/字节-小荷-后端.md)
-
 - [微软中国-必应搜索平台组-All levels](https://github.com/JD331/JD331/blob/main/招聘需求/微软中国-必应搜索平台组-All levels.md)
 
-  
+
+
+
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
