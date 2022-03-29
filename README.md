@@ -43,6 +43,7 @@
 - [Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端](https://github.com/JD331/JD331/blob/main/招聘需求/Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端.md)
 - [字节-小荷-后端](https://github.com/JD331/JD331/blob/main/招聘需求/字节-小荷-后端.md)
 - [微软中国-必应搜索平台组-All levels](https://github.com/JD331/JD331/blob/main/招聘需求/微软中国-必应搜索平台组-All%20levels.md)
+- [Freewheel-Infra-Java搜索工程师](https://github.com/JD331/JD331/blob/main/招聘需求/Freewheel-Infra-Java-LeadEng.md)
 
 
 
