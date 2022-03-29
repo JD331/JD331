@@ -43,7 +43,9 @@
 - [微软中国-必应搜索平台组-All levels](https://github.com/JD331/JD331/blob/main/招聘需求/微软中国-必应搜索平台组-All%20levels.md)
 - [Freewheel-Infra-Java搜索工程师](https://github.com/JD331/JD331/blob/main/招聘需求/Freewheel-Infra-Java-LeadEng.md)
 - [字节-基础架构系统部-前端后端SRE](https://github.com/JD331/JD331/blob/main/招聘需求/字节-基础架构系统部-前端后端SRE.md)
-- 
+- [旷视-算法开发产品部-框架开发工程师](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-框架开发工程师.md)
+- [旷视-算法开发产品部-深度学习框架运营经理](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-深度学习框架运营经理.md)
+-
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
