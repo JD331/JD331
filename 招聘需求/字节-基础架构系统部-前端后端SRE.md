@@ -17,6 +17,6 @@
 5、热爱研发工作，有较强的好奇心和进取心，关注行业和技术动态。
 
 ## 联系方式，欢迎直接联系我咨询岗位详情
-邮箱联系：bytedance2022@163.com
+邮箱联系：bytedance_2022@163.com
 内推直达：https://job.toutiao.com/s/N9cHs6M （以网络平台高级研发工程师为例）
 系统部其他职位：https://job.toutiao.com/s/N9cEP7N
