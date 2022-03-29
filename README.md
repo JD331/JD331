@@ -34,6 +34,10 @@
 
 - [字节-小荷-后端](https://github.com/JD331/JD331/blob/main/招聘需求/字节-小荷-后端.md)
 
+- [微软中国-必应搜索平台组-All levels](https://github.com/JD331/JD331/blob/main/招聘需求/微软中国-必应搜索平台组-All levels.md)
+
+  
+
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
