@@ -39,7 +39,6 @@
 - [Shopee-基础设施-QA](https://github.com/JD331/JD331/blob/main/招聘需求/Shopee-基础设施-QA.md)
 - [微软中国-必应搜索平台组-All levels](https://github.com/JD331/JD331/blob/main/招聘需求/微软中国-必应搜索平台组-All%20levels.md)
 - [Freewheel-Infra-Java搜索工程师](https://github.com/JD331/JD331/blob/main/招聘需求/Freewheel-Infra-Java-LeadEng.md)
-- [Freewheel-Infra-Java搜索工程师](https://github.com/JD331/JD331/blob/main/招聘需求/Freewheel-Infra-Java-LeadEng.md)
 - [字节-基础架构系统部-前端后端SRE](https://github.com/JD331/JD331/blob/main/招聘需求/字节-基础架构系统部-前端后端SRE.md)
 - 
 
