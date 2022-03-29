@@ -34,6 +34,8 @@
 - [美团-到家-前端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团【成都】-到家-前端.md)
 - [OPPO-互联网系统+数智(基础研发)系统](<https://github.com/JD331/JD331/blob/main/招聘需求/OPPO-互联网系统%2B数智(基础研发)系统.md>)
 - [美团-医药-后端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团成都-医药-后端.md)
+- [美团-新供给-后端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团成都-新供给-后端.md)
+- [美团-歪马-后端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团成都-歪马-后端.md)
 - [Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端](https://github.com/JD331/JD331/blob/main/招聘需求/Shopee-金融|生活|Food|商家|供应链|卖家|物流|支付-前端.md)
 - [字节-小荷-后端](https://github.com/JD331/JD331/blob/main/招聘需求/字节-小荷-后端.md)
 - [Shopee-基础设施-QA](https://github.com/JD331/JD331/blob/main/招聘需求/Shopee-基础设施-QA.md)
