@@ -6,7 +6,7 @@
   + 能校招进你们京东的，当年谁手上不是拿了好几个offer，反复考虑最后才选了你们。你们大量裁掉校招生的行为是在透支京东作为一家世界500强雇主的品牌价值。
   + 我们只能记录下这次京东裁掉21届校招生的事实，给后面的师弟师妹做个参考。
 
-  
+
 
 
 ## 裁员数据实时更新
@@ -49,7 +49,7 @@
 - [持安科技-北京-网关研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-网关研发.md)
 - [持安科技-北京-客户端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-客户端研发.md)
 - [持安科技-北京-产品测试](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-测试-产品.md)
--
+- [字节-抖音内容安全-前后端产运.md](https://github.com/JD331/JD331/blob/main/招聘需求/字节-抖音内容安全-前后端产运.md)
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
