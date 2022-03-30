@@ -31,6 +31,7 @@
 
 > 如果您有招聘需求，欢迎提交至此。裁员主要是因为公司经营管理不善，并非被裁员工能力不足或者品行不端，相互尊重是合作展开的基础。
 
+- [eBay-中国上海-招聘(All)](https://github.com/JD331/JD331/blob/main/招聘需求/ebay-上海-研发.md)
 - [微软中国—软件开发工程师（all level）](https://github.com/JD331/JD331/blob/main/%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82/%E5%BE%AE%E8%BD%AF%E4%B8%AD%E5%9B%BD%E2%80%94%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88all%20level%EF%BC%89.md)
 - [美团-到家-前端-base 成都](https://github.com/JD331/JD331/blob/main/招聘需求/美团【成都】-到家-前端.md)
 - [OPPO-互联网系统+数智(基础研发)系统](<https://github.com/JD331/JD331/blob/main/招聘需求/OPPO-互联网系统%2B数智(基础研发)系统.md>)
@@ -50,6 +51,7 @@
 - [持安科技-北京-客户端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-客户端研发.md)
 - [持安科技-北京-产品测试](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-测试-产品.md)
 - [字节-抖音内容安全-前后端产运](https://github.com/JD331/JD331/blob/main/招聘需求/字节-抖音内容安全-前后端产运.md)
+- [小红书-北京-媒体中台-后端](https://github.com/JD331/JD331/blob/main/招聘需求/小红书-媒体中台-后端.md)
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
