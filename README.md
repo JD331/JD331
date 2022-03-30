@@ -45,6 +45,10 @@
 - [字节-基础架构系统部-前端后端SRE](https://github.com/JD331/JD331/blob/main/招聘需求/字节-基础架构系统部-前端后端SRE.md)
 - [旷视-算法开发产品部-框架开发工程师](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-框架开发工程师.md)
 - [旷视-算法开发产品部-深度学习框架运营经理](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-深度学习框架运营经理.md)
+- [持安科技-北京-前后端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-前后端研发.md)
+- [持安科技-北京-网关研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-网关研发.md)
+- [持安科技-北京-客户端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-客户端研发.md)
+- [持安科技-北京-产品测试](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-测试-产品.md)
 -
 
 <!--
