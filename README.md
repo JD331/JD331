@@ -49,7 +49,7 @@
 - [持安科技-北京-网关研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-网关研发.md)
 - [持安科技-北京-客户端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-客户端研发.md)
 - [持安科技-北京-产品测试](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-测试-产品.md)
--
+- [小红书-北京-媒体中台-后端](https://github.com/JD331/JD331/blob/main/招聘需求/小红书-媒体中台-后端.md)
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
