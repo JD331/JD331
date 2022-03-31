@@ -63,7 +63,7 @@
 - [ZOOM-杭州/苏州/合肥-研发｜测试](https://github.com/JD331/JD331/blob/main/招聘需求/ZOOM-杭州|苏州|合肥-超多岗位.md)
 - [字节-成北上深-生活服务-服务端开发](https://github.com/JD331/JD331/blob/main/招聘需求/字节-成北上深-生活服务-服务端开发.md)
 - [字节-飞书-前后端算法](https://github.com/JD331/JD331/blob/main/招聘需求/字节-飞书-前后端算法.md)
-- [字节-中国-前后端产品运营啥坑都要] https://job.toutiao.com/s/NC2bgJP (全部岗位) 本人手机号18311291775 加微信及时跟进简历状态~ 
+- [字节-中国-前后端产品运营啥坑都要](https://job.toutiao.com/s/NC2bgJP) 本人手机号18311291775 加微信及时跟进简历状态~ 
   另外本人部门招聘高年级前端同学https://job.toutiao.com/s/NC2Vvyt 优质简历筛选通过会有1v1面试辅导。
 
 <!--
