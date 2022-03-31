@@ -53,6 +53,7 @@
 - [字节-抖音内容安全-前后端产运](https://github.com/JD331/JD331/blob/main/招聘需求/字节-抖音内容安全-前后端产运.md)
 - [小红书-北京-媒体中台-后端](https://github.com/JD331/JD331/blob/main/招聘需求/小红书-媒体中台-后端.md)
 - [ZOOM-杭州/苏州/合肥-研发｜测试](https://github.com/JD331/JD331/blob/main/招聘需求/ZOOM-杭州|苏州|合肥-超多岗位.md)
+- [字节-成北上深-生活服务-服务端开发](https://github.com/JD331/JD331/blob/main/招聘需求/字节-成北上深-生活服务-服务端开发.md)
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
