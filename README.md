@@ -26,7 +26,7 @@
 + [专业法律渠道和仲裁渠道](https://github.com/JD331/JD331/blob/main/%E8%A3%81%E5%91%98%E5%BA%94%E5%AF%B9/%E4%B8%93%E4%B8%9A%E6%B3%95%E5%BE%8B%E6%B8%A0%E9%81%93%E5%92%8C%E4%BB%B2%E8%A3%81%E6%B8%A0%E9%81%93.md)
 + [非法裁员常见问题手册](https://github.com/JD331/JD331/blob/main/%E8%A3%81%E5%91%98%E5%BA%94%E5%AF%B9/%E9%9D%9E%E6%B3%95%E8%A3%81%E5%91%98%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%89%8B%E5%86%8C.md)
 
-+ [应届生裁员自救指南]()
++ [应届生裁员自救指南](https://github.com/JD331/JD331/blob/main/%E8%A3%81%E5%91%98%E5%BA%94%E5%AF%B9/%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A2%AB%E8%A3%81%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97.md)
 
 ## 相关新闻
 
