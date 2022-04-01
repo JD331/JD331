@@ -32,7 +32,8 @@
 + 【阴间新闻】小米辞退不能胜任工作员工终审败诉，[新闻链接](https://finance.sina.com.cn/chanjing/gsnews/2022-03-26/doc-imcwipii0686339.shtml), [裁判文书](https://www.bjcourt.gov.cn/cpws/paperView.htm?id=e089ff7093e44ca4bcc34d39ecf085d9)
 
 + 【阴间新闻】用人单位乱扣绩效工资，员工申请劳动仲裁获赔13.2万元，[新闻链接](https://new.qq.com/omn/20210919/20210919A040G200.html)
-+ 【阴间新闻】[京东单方面辞退38岁P7员工劳动仲裁败诉 员工复岗又收解聘通知](https://finance.sina.com.cn/tech/2020-11-27/doc-iiznctke3531198.shtml)
+
++ 【阴间新闻】京东单方面辞退38岁P7员工劳动仲裁败诉，员工复岗又收解聘通知，[新闻链接](https://finance.sina.com.cn/tech/2020-11-27/doc-iiznctke3531198.shtml)
 
 + 【阳间新闻】裁员“恶意补偿”的佳能何以火遍全网？，[新闻链接](https://www.163.com/dy/article/GUGBNRJQ0552P091.html)
 
