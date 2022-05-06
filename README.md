@@ -59,6 +59,7 @@
 - [字节-基础架构系统部-前端后端SRE](https://github.com/JD331/JD331/blob/main/招聘需求/字节-基础架构系统部-前端后端SRE.md)
 - [旷视-算法开发产品部-框架开发工程师](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-框架开发工程师.md)
 - [旷视-算法开发产品部-深度学习框架运营经理](https://github.com/JD331/JD331/blob/main/招聘需求/旷视-算法开发产品部-深度学习框架运营经理.md)
+- [SHEIN-中国&新加坡-前后端、产品、算法、大数据、运维等](https://github.com/JD331/JD331/blob/main/招聘需求/SHEIN-中国&新加坡-前后端、产品、算法、大数据、运维.md)
 - [持安科技-北京-前后端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-前后端研发.md)
 - [持安科技-北京-网关研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-网关研发.md)
 - [持安科技-北京-客户端研发](https://github.com/JD331/JD331/blob/main/招聘需求/持安科技-北京-客户端研发.md)
@@ -72,6 +73,7 @@
 - [字节-中国-前后端产品运营啥坑都要] https://job.toutiao.com/s/NC2bgJP（全部岗位） 本人手机号18311291775 加微信及时跟进简历状态~ 
   另外本人部门招聘高年级前端同学https://job.toutiao.com/s/NC2Vvyt 优质简历筛选通过会有1v1面试辅导。
 - [字节-幸福里-服务端研发](https://github.com/JD331/JD331/blob/main/招聘需求/字节-幸福里-服务端开发.md)
+
 
 <!--
 **JD331/JD331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
