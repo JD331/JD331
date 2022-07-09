@@ -1,8 +1,8 @@
-## 京东负面新闻
+## 近期京东热点负面新闻
 
-[京东到美国做物流 员工挑战 996纷纷辞职--新闻链接](https://www.wapbaike.net/read/23987.html)
++ [京东到美国做物流 员工挑战 996纷纷辞职-新闻链接-2022年7月7日](https://www.wapbaike.net/read/23987.html)
 
-[如何看待京东美国员工不满996纷纷辞职?--知乎讨论](https://www.zhihu.com/question/541480108?utm_source=wechat_session&utm_medium=social&utm_oi=1126868659393650688&utm_content=group2_supplementQuestions&utm_campaign=shareopn)
++ [如何看待京东美国员工不满996纷纷辞职?-知乎讨论-2022年7月](https://www.zhihu.com/question/541480108?utm_source=wechat_session&utm_medium=social&utm_oi=1126868659393650688&utm_content=group2_supplementQuestions&utm_campaign=shareopn)
 
 
 
