@@ -1,3 +1,11 @@
+## 京东负面新闻
+
+[京东到美国做物流 员工挑战 996纷纷辞职--新闻链接](https://www.wapbaike.net/read/23987.html)
+
+[如何看待京东美国员工不满996纷纷辞职?--知乎讨论](https://www.zhihu.com/question/541480108?utm_source=wechat_session&utm_medium=social&utm_oi=1126868659393650688&utm_content=group2_supplementQuestions&utm_campaign=shareopn)
+
+
+
 ## JD331
 
 + 本次裁员，京东因21届校招生入职时间短、赔偿低，不少部门都选择裁掉了21届校招生，裁员比例和应届生分布看[这里](https://github.com/JD331/JD331/blob/main/%E8%A3%81%E5%91%98%E5%AE%9E%E5%86%B5/%E4%BA%AC%E4%B8%9C2022%E5%B9%B43%E6%9C%88%E8%A3%81%E5%91%98%E5%AE%9E%E5%86%B5.md)。
