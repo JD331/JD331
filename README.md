@@ -1,10 +1,10 @@
-## 近期京东负面热点新闻
+## 近期京东负面事件及热点新闻
 
 + [京东到美国做物流 员工挑战 996纷纷辞职-新闻链接-2022年7月7日](https://www.wapbaike.net/read/23987.html)
 
 + [如何看待京东美国员工不满996纷纷辞职?-知乎讨论-2022年7月](https://www.zhihu.com/question/541480108?utm_source=wechat_session&utm_medium=social&utm_oi=1126868659393650688&utm_content=group2_supplementQuestions&utm_campaign=shareopn)
 
-
++ 脉脉匿名用户“疯狂带团队的大芒果”，北京大学学生认证，2022年7月14日发表：“千万别去狗东。有个应届生朋友入职不到一个月就被裁了，以交社保威胁。**公司”，根据时间推测应该是刚毕业的22届应届生
 
 ## JD331
 
